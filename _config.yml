@@ -1,10 +1,10 @@
 # Site settings
-title: 驴叔前辈
-SEOTitle: 驴叔前辈的博客 | 驴叔前辈
+title: 前辈
+SEOTitle: 前辈的博客 | 前辈
 header-img: img/post-bg-desk.jpg
 email: 1104764841@qq.com
 description: "所谓捷径就是一步一步的脚踏实地"
-keyword: "驴, 驴叔, 前辈, 驴叔前辈的博客"
+keyword: "前辈, 前辈的博客"
 url: "https://thaleslv.github.io/"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/thaleslv/thaleslv.github.io.git" # you code repository
@@ -18,11 +18,11 @@ sidebar-avatar: /img/lv.png      # use absolute URL, seeing it's used in both `/
 
 # SNS settings
 RSS: false
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
+weibo_username:     精神病yuan院长夫人
+#zhihu_username:     qiubaiying
+#github_username:    qiubaiying
+#facebook_username:  baiying.qiu.7
+#jianshu_username:   e71990ada2fd
 #twitter_username:   qiubaiying
 
 
