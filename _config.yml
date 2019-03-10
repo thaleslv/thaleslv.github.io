@@ -64,7 +64,7 @@ gitalk:
   enable: true    #是否开启Gitalk评论
   clientID: c9cefb30764e9a301ca4                            #生成的clientID
   clientSecret: de6baba004b2df838ba7d6b82627b693dcbeea1b    #生成的clientSecret
-  repo: "thaleslv blog"     #仓库名称
+  repo:  thaleslv.github.io     #仓库名称
   owner: thaleslv    #github用户名
   admin: thaleslv
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
